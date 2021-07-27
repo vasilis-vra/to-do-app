@@ -6,6 +6,7 @@ To-Do List Web application in React/Next.js.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [How to use](#how-to-use)
+* [Examples](#examples)
 
 ## General info
 This project is a web application implementing a to-do list app. The app is built in React using Next.js, a JavaScript framework that lets you build server-side rendering web applications. The application also uses a MongoDb database for data storage and user authentication.
@@ -33,5 +34,16 @@ This project is a web application implementing a to-do list app. The app is buil
 3. The user can navigate through the basic task categories (Today, Inbox, Future) but also create Project categories in the "Projects" tab. 
 4. The functionality consists of creating/deleting/moving tasks inside the basic list categories, creating/deleting projects, creating/deleting tasks inside each seperate project.
 
-
+## Examples
+Welcome page:
+<br>
+![example1](https://user-images.githubusercontent.com/77937479/127172879-fb5024b1-c05b-4c37-8c5f-c6b59e0d096e.png)   
+    
+Today task page:
+<br>
+![example2](https://user-images.githubusercontent.com/77937479/127172883-84be033e-98cb-4e4a-9a02-2f5d870b5163.png)
+   
+Projects list page:
+<br>
+![example3](https://user-images.githubusercontent.com/77937479/127172895-40902ac8-0e76-4c47-9b2a-7008ba249903.png)
 
