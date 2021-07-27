@@ -1,0 +1,13 @@
+.container {
+  min-height: 100vh;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  margin: 5%;
+}
+
+@media (min-width: 900px) {
+  .container {
+    margin: 5% 25%;
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "bootstrap": "^5.0.0-beta3",
+    "dns": "^0.2.2",
+    "eslint": "^7.30.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^3.5.9",
+    "mongodb-client-encryption": "^1.2.6",
+    "mongodb-core": "^3.2.7",
+    "net": "^1.0.2",
+    "next": "latest",
+    "next-auth": "^3.27.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-bootstrap-icons": "^1.5.0",
+    "react-dom": "^17.0.2",
+    "tls": "^0.0.1"
+  },
+  "license": "MIT"
+}

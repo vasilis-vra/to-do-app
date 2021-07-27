@@ -1,0 +1,12 @@
+@media (max-width: 500px) {
+  .small {
+    display: none;
+  }
+}
+
+.navButton {
+  background: none !important;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
